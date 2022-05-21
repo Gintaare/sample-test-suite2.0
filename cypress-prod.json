@@ -1,0 +1,28 @@
+{
+  "baseUrl": "",
+  "chromeWebSecurity": false,
+  "experimentalSessionSupport": false,
+  "defaultCommandTimeout": 15000,
+  "video": false,
+  "env": {
+    "Username": "",
+    "Password": "",
+    "FacilityName": "",
+    "residentEmail": "",
+    "residentNewEmail": "",
+    "residentName": "",
+    "residentSurname": "",
+    "representativeEmail": "",
+
+    "TESTMAIL_NAMESPACE": "",
+    "TESTMAIL_APIKEY": "",
+    "welcomePage": "",
+    "authUsername": "a",
+    "authPassword": "a"
+  },
+  "projectId": "zph92m",
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporter-config.json"
+  }
+}
